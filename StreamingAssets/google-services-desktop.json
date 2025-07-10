@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "940325706530",
+    "firebase_url": "https://white-terra-357508-default-rtdb.firebaseio.com",
+    "project_id": "white-terra-357508",
+    "storage_bucket": "white-terra-357508.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940325706530:android:831a7c93971bd6da9be37b",
+        "android_client_info": {
+          "package_name": "com.OneOcean.TopMobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "940325706530-d5uti493p90m4k3aeuuv1ijp01hsq79p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVycHY7X6a8iF7WYHhu9e4mXY1l5CHfr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "940325706530-d5uti493p90m4k3aeuuv1ijp01hsq79p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,297 @@
+<linker>
+  <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="CFX_AutoDestructShuriken" preserve="all" />
+    <type fullname="ExplosionsLightCurves" preserve="all" />
+    <type fullname="OneOcean.ActionVisualizationWidget" preserve="all" />
+    <type fullname="OneOcean.AIGeneral" preserve="all" />
+    <type fullname="OneOcean.EnemyCapitalPanel" preserve="all" />
+    <type fullname="OneOcean.Game.Effects.EffectService" preserve="all" />
+    <type fullname="OneOcean.Game.Effects.RandomBlood" preserve="all" />
+    <type fullname="OneOcean.Gameplay.AI.AIEntity" preserve="all" />
+    <type fullname="OneOcean.Gameplay.AI.Data.AIMapSettings" preserve="all" />
+    <type fullname="OneOcean.Gameplay.AI.Data.AIRecrutingGroupSetting" preserve="all" />
+    <type fullname="OneOcean.Gameplay.AI.Data.AIStrategySettings" preserve="all" />
+    <type fullname="OneOcean.Gameplay.AI.Data.AITownSettings" preserve="all" />
+    <type fullname="OneOcean.Gameplay.Animations.AnimationData" preserve="all" />
+    <type fullname="OneOcean.Gameplay.Detect.EntetiesDetectManager" preserve="all" />
+    <type fullname="OneOcean.Gameplay.Detect.SquadDetectManager" preserve="all" />
+    <type fullname="OneOcean.Gameplay.Detect.TownAllyDetectManager" preserve="all" />
+    <type fullname="OneOcean.Gameplay.Entity.BuildingEntity" preserve="all" />
+    <type fullname="OneOcean.Gameplay.Entity.BuildingPointEntity" preserve="all" />
+    <type fullname="OneOcean.Gameplay.Entity.Data.BuildingData" preserve="all" />
+    <type fullname="OneOcean.Gameplay.Entity.Data.PersonalTechnologyData" preserve="all" />
+    <type fullname="OneOcean.Gameplay.Entity.Data.SquadData" preserve="all" />
+    <type fullname="OneOcean.Gameplay.Entity.Data.TownData" preserve="all" />
+    <type fullname="OneOcean.Gameplay.Entity.Data.WeaponData" preserve="all" />
+    <type fullname="OneOcean.Gameplay.Entity.ModelController" preserve="all" />
+    <type fullname="OneOcean.Gameplay.Entity.RecrutingPointEntity" preserve="all" />
+    <type fullname="OneOcean.Gameplay.Entity.ShadowPlacer" preserve="all" />
+    <type fullname="OneOcean.Gameplay.Entity.SquadEntity" preserve="all" />
+    <type fullname="OneOcean.Gameplay.Entity.SquadPointPlacer" preserve="all" />
+    <type fullname="OneOcean.Gameplay.Entity.TownEntity" preserve="all" />
+    <type fullname="OneOcean.Gameplay.EntityWidgetSystem.EntityWidgetSystem" preserve="all" />
+    <type fullname="OneOcean.Gameplay.Graphics.GraphicsController" preserve="all" />
+    <type fullname="OneOcean.Gameplay.Logic.LogicManager" preserve="all" />
+    <type fullname="OneOcean.Gameplay.Logic.LogicProcessor" preserve="all" />
+    <type fullname="OneOcean.Gameplay.Map.CampaignProperties" preserve="all" />
+    <type fullname="OneOcean.Gameplay.Map.MapProperties" preserve="all" />
+    <type fullname="OneOcean.Gameplay.Movement.MovementController" preserve="all" />
+    <type fullname="OneOcean.Gameplay.Player.PlayerEntity" preserve="all" />
+    <type fullname="OneOcean.Gameplay.Project.ProjectManager" preserve="all" />
+    <type fullname="OneOcean.Gameplay.Selection.SelectionManager" preserve="all" />
+    <type fullname="OneOcean.Gameplay.Selection.Types.BuildingPointSelectionController" preserve="all" />
+    <type fullname="OneOcean.Gameplay.Selection.Types.BuildingSelectionController" preserve="all" />
+    <type fullname="OneOcean.Gameplay.Selection.Types.ReferenceSelectionController" preserve="all" />
+    <type fullname="OneOcean.Gameplay.Selection.Types.SquadSelectionController" preserve="all" />
+    <type fullname="OneOcean.Gameplay.Selection.Types.TownSelectionController" preserve="all" />
+    <type fullname="OneOcean.Gameplay.Selection.Types.UIGroupSlotSelectionController" preserve="all" />
+    <type fullname="OneOcean.Gameplay.Tasks.TaskManager" preserve="all" />
+    <type fullname="OneOcean.Gameplay.Timerush.TimeRushSystem" preserve="all" />
+    <type fullname="OneOcean.Gameplay.Timerush.TimeRushWidget" preserve="all" />
+    <type fullname="OneOcean.Gameplay.Weapon.WeaponController" preserve="all" />
+    <type fullname="OneOcean.GameSaveService.GameSaveService" preserve="all" />
+    <type fullname="OneOcean.SelectCampaighElementView" preserve="all" />
+    <type fullname="OneOcean.SelectCampaighView" preserve="all" />
+    <type fullname="OneOcean.Services.AIService" preserve="all" />
+    <type fullname="OneOcean.Services.AnalyticsService" preserve="all" />
+    <type fullname="OneOcean.Services.Audio.AutoplayAudioData" preserve="all" />
+    <type fullname="OneOcean.Services.AudioService" preserve="all" />
+    <type fullname="OneOcean.Services.CheckerService" preserve="all" />
+    <type fullname="OneOcean.Services.CirclesVisualizeService" preserve="all" />
+    <type fullname="OneOcean.Services.EntityService" preserve="all" />
+    <type fullname="OneOcean.Services.FirebaseService" preserve="all" />
+    <type fullname="OneOcean.Services.GameplayService" preserve="all" />
+    <type fullname="OneOcean.Services.GeneralsService" preserve="all" />
+    <type fullname="OneOcean.Services.PlayersService" preserve="all" />
+    <type fullname="OneOcean.Services.SaveService" preserve="all" />
+    <type fullname="OneOcean.Services.SceneLoaderService" preserve="all" />
+    <type fullname="OneOcean.UI.ButtonSound" preserve="all" />
+    <type fullname="OneOcean.UI.Common.Panels.ActionsPanel" preserve="all" />
+    <type fullname="OneOcean.UI.Common.Panels.CapitalPanel" preserve="all" />
+    <type fullname="OneOcean.UI.Common.Panels.ControllsPanel" preserve="all" />
+    <type fullname="OneOcean.UI.Common.Panels.GameTimerPanel" preserve="all" />
+    <type fullname="OneOcean.UI.Common.Panels.InfoPanel" preserve="all" />
+    <type fullname="OneOcean.UI.Common.Panels.ProjectPanel" preserve="all" />
+    <type fullname="OneOcean.UI.Common.Panels.StatsInfoPanel" preserve="all" />
+    <type fullname="OneOcean.UI.Common.Panels.TechnologyPanel" preserve="all" />
+    <type fullname="OneOcean.UI.Common.Panels.TimersPanel" preserve="all" />
+    <type fullname="OneOcean.UI.Common.Panels.TownCapitalPanel" preserve="all" />
+    <type fullname="OneOcean.UI.Common.Slots.ActionSlotView" preserve="all" />
+    <type fullname="OneOcean.UI.Common.Slots.BuildingPointControllSlotView" preserve="all" />
+    <type fullname="OneOcean.UI.Common.Slots.EntityUpgradeSlotView" preserve="all" />
+    <type fullname="OneOcean.UI.Common.Slots.GroupControllSlotView" preserve="all" />
+    <type fullname="OneOcean.UI.Common.Slots.InfoSlotView" preserve="all" />
+    <type fullname="OneOcean.UI.Common.Slots.ProjectSlotView" preserve="all" />
+    <type fullname="OneOcean.UI.Common.Slots.SeparatorSlotView" preserve="all" />
+    <type fullname="OneOcean.UI.Common.Slots.SquadControllSlotView" preserve="all" />
+    <type fullname="OneOcean.UI.Common.Slots.TechnologySlotView" preserve="all" />
+    <type fullname="OneOcean.UI.Common.Slots.TimerSlotView" preserve="all" />
+    <type fullname="OneOcean.UI.Common.Slots.UpgradeSlotView" preserve="all" />
+    <type fullname="OneOcean.UI.LoaderManager" preserve="all" />
+    <type fullname="OneOcean.UI.Popups.AltImagePopup" preserve="all" />
+    <type fullname="OneOcean.UI.Popups.ImagePopup" preserve="all" />
+    <type fullname="OneOcean.UI.Popups.IngameMenuPopup" preserve="all" />
+    <type fullname="OneOcean.UI.Popups.MessagePopup" preserve="all" />
+    <type fullname="OneOcean.UI.Popups.NeedBuildingPopup" preserve="all" />
+    <type fullname="OneOcean.UI.Popups.Panel.IngamePausePanel" preserve="all" />
+    <type fullname="OneOcean.UI.Popups.Panel.MusicSettingsPanel" preserve="all" />
+    <type fullname="OneOcean.UI.Popups.PopupManager" preserve="all" />
+    <type fullname="OneOcean.UI.Popups.TutorialPopup" preserve="all" />
+    <type fullname="OneOcean.UI.Screens.Types.DefeatScreen" preserve="all" />
+    <type fullname="OneOcean.UI.Screens.Types.IngameScreen" preserve="all" />
+    <type fullname="OneOcean.UI.Screens.Types.MainMenuScreen" preserve="all" />
+    <type fullname="OneOcean.UI.Screens.Types.MoreInfoScreen" preserve="all" />
+    <type fullname="OneOcean.UI.Screens.Types.PlayerUpgradeScreen" preserve="all" />
+    <type fullname="OneOcean.UI.Screens.Types.SelectCampaignMapScreen" preserve="all" />
+    <type fullname="OneOcean.UI.Screens.Types.SelectCampaignScreen" preserve="all" />
+    <type fullname="OneOcean.UI.Screens.Types.SelectMapScreen" preserve="all" />
+    <type fullname="OneOcean.UI.Screens.Types.SettingsScreen" preserve="all" />
+    <type fullname="OneOcean.UI.Screens.Types.VictoryScreen" preserve="all" />
+    <type fullname="OneOcean.UI.Screens.Types.WikiScreen" preserve="all" />
+    <type fullname="OneOcean.UI.Swipe.SwipeHidableObject" preserve="all" />
+    <type fullname="OneOcean.UI.Swipe.SwipeManager" preserve="all" />
+    <type fullname="OneOcean.UI.ToggleSound" preserve="all" />
+    <type fullname="OneOcean.UI.UIManager" preserve="all" />
+    <type fullname="OneOcean.UI.Widgets.ArmyGroupWidget" preserve="all" />
+    <type fullname="OneOcean.UI.Widgets.AttackRadiusWidget" preserve="all" />
+    <type fullname="OneOcean.UI.Widgets.CirclesWidget" preserve="all" />
+    <type fullname="OneOcean.UI.Widgets.EntityWidget" preserve="all" />
+    <type fullname="OneOcean.UI.Widgets.FlagWidget" preserve="all" />
+    <type fullname="OneOcean.UI.Widgets.HealthBarWidget" preserve="all" />
+    <type fullname="OneOcean.UI.Widgets.HealthConstuctionBarWidget" preserve="all" />
+    <type fullname="OneOcean.UI.Widgets.ProgressBarWidget" preserve="all" />
+    <type fullname="OneOcean.UI.Widgets.SelectionCirclesWidget" preserve="all" />
+    <type fullname="OneOcean.UI.Widgets.SplashWidget" preserve="all" />
+    <type fullname="OneOcean.UI.Widgets.SquadHealthWidget" preserve="all" />
+    <type fullname="OneOcean.UI.Widgets.TargetWidget" preserve="all" />
+    <type fullname="OneOcean.UI.Widgets.TownCapitalWidget" preserve="all" />
+    <type fullname="OneOcean.UI.Widgets.WidgetManager" preserve="all" />
+    <type fullname="Tiny.Trail" preserve="all" />
+    <type fullname="OneOcean.UI.Swipe.SwipeManager/CommandColorData" preserve="nothing" serialized="true" />
+    <type fullname="OneOcean.UI.Widgets.SelectionCirclesWidget/SelectionColorData" preserve="nothing" serialized="true" />
+    <type fullname="OneOcean.AudioClipData" preserve="nothing" serialized="true" />
+    <type fullname="OneOcean.Gameplay.AI.Data.AIGeneralsSettigns" preserve="nothing" serialized="true" />
+    <type fullname="OneOcean.Gameplay.AI.Data.AIMapSettings/AIMapSettingsData" preserve="nothing" serialized="true" />
+    <type fullname="OneOcean.Gameplay.AI.Data.AIPrioritySettings" preserve="nothing" serialized="true" />
+    <type fullname="OneOcean.Gameplay.AI.Data.AIRecrutingSettings" preserve="nothing" serialized="true" />
+    <type fullname="OneOcean.Gameplay.AI.Data.EGeneralType" preserve="nothing" serialized="true" />
+    <type fullname="OneOcean.Gameplay.Actions.Types.BuildingConstructionActionData" preserve="nothing" serialized="true" />
+    <type fullname="OneOcean.Gameplay.Actions.Types.BuildingRestoreActionData" preserve="nothing" serialized="true" />
+    <type fullname="OneOcean.Gameplay.Actions.Types.PersonalTechnologyUpgradeActionData" preserve="nothing" serialized="true" />
+    <type fullname="OneOcean.Gameplay.Actions.Types.SquadConstructionActionData" preserve="nothing" serialized="true" />
+    <type fullname="OneOcean.Gameplay.Actions.Types.SquadRecoverActionData" preserve="nothing" serialized="true" />
+    <type fullname="OneOcean.Gameplay.Actions.Types.TechnologyUpgradeActionData" preserve="nothing" serialized="true" />
+    <type fullname="OneOcean.Gameplay.Actions.Types.TownConstructionActionData" preserve="nothing" serialized="true" />
+    <type fullname="OneOcean.Gameplay.Entity.Data.EntityData/NeedBuildingData" preserve="nothing" serialized="true" />
+    <type fullname="OneOcean.Gameplay.Entity.Data.SplashDamageData" preserve="nothing" serialized="true" />
+    <type fullname="OneOcean.Gameplay.Entity.Data.TechnologyLevelData" preserve="nothing" serialized="true" />
+    <type fullname="OneOcean.Gameplay.Entity.EEntityState" preserve="nothing" serialized="true" />
+    <type fullname="OneOcean.Gameplay.Entity.SquadEntity/HealthIndexData" preserve="nothing" serialized="true" />
+    <type fullname="OneOcean.Gameplay.Graphics.DirectionAngleData" preserve="nothing" serialized="true" />
+    <type fullname="OneOcean.Gameplay.Logic.CommandData" preserve="nothing" serialized="true" />
+    <type fullname="OneOcean.Gameplay.Logic.ETriggerType" preserve="nothing" serialized="true" />
+    <type fullname="OneOcean.Gameplay.Logic.TriggerData" preserve="nothing" serialized="true" />
+    <type fullname="OneOcean.Gameplay.Map.CampaignMapProperties" preserve="nothing" serialized="true" />
+    <type fullname="OneOcean.Gameplay.Map.EAIDifficulty" preserve="nothing" serialized="true" />
+    <type fullname="OneOcean.Gameplay.Map.MapRewardData" preserve="nothing" serialized="true" />
+    <type fullname="OneOcean.Gameplay.Map.NationProperties" preserve="nothing" serialized="true" />
+    <type fullname="OneOcean.Gameplay.Map.TechnologyStartData" preserve="nothing" serialized="true" />
+    <type fullname="OneOcean.Gameplay.Player.PlayersGroupData" preserve="nothing" serialized="true" />
+    <type fullname="OneOcean.Gameplay.Skills.BuildingAttackSkillData" preserve="nothing" serialized="true" />
+    <type fullname="OneOcean.Gameplay.Skills.MinningSkillData" preserve="nothing" serialized="true" />
+    <type fullname="OneOcean.Gameplay.Skills.SquadConstructSkillData" preserve="nothing" serialized="true" />
+    <type fullname="OneOcean.Gameplay.Skills.TechnologyUpgradeSkillData" preserve="nothing" serialized="true" />
+    <type fullname="OneOcean.Utilities.SerializableDictionary`2" preserve="nothing" serialized="true" />
+    <type fullname="OneOcean.Utilities.SimplePool`1" preserve="nothing" serialized="true" />
+    <type fullname="OneOcean.Gameplay.Player.Wallet.WalletController" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="AstarPathfindingProject, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Pathfinding.AIPath" preserve="all" />
+    <type fullname="Pathfinding.RaycastModifier" preserve="all" />
+    <type fullname="Pathfinding.RVO.RVOController" preserve="all" />
+    <type fullname="Pathfinding.Seeker" preserve="all" />
+    <type fullname="Pathfinding.AutoRepathPolicy" preserve="nothing" serialized="true" />
+    <type fullname="Pathfinding.GraphMask" preserve="nothing" serialized="true" />
+    <type fullname="Pathfinding.StartEndModifier" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.AddressableAssets.Addressables" preserve="all" />
+    <type fullname="UnityEngine.AddressableAssets.AssetReferenceGameObject" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.InstanceProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.SceneProvider" preserve="all" />
+  </assembly>
+  <assembly fullname="Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="TMPro.TextMeshProUGUI" preserve="all" />
+    <type fullname="TMPro.TMP_FontAsset" preserve="all" />
+    <type fullname="TMPro.FaceInfo_Legacy" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.FontAssetCreationSettings" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.KerningTable" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_Character" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_FontFeatureTable" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_FontWeightPair" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.VertexGradient" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="UnityEditor.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEditor.Audio.AudioMixerSnapshotController" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.AnimationModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Animation" preserve="all" />
+    <type fullname="UnityEngine.AnimationClip" preserve="all" />
+    <type fullname="UnityEngine.Animator" preserve="all" />
+    <type fullname="UnityEngine.RuntimeAnimatorController" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.AudioModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Audio.AudioMixer" preserve="all" />
+    <type fullname="UnityEngine.Audio.AudioMixerGroup" preserve="all" />
+    <type fullname="UnityEngine.AudioClip" preserve="all" />
+    <type fullname="UnityEngine.AudioListener" preserve="all" />
+    <type fullname="UnityEngine.AudioSource" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Camera" preserve="all" />
+    <type fullname="UnityEngine.Cubemap" preserve="all" />
+    <type fullname="UnityEngine.GameObject" preserve="all" />
+    <type fullname="UnityEngine.Light" preserve="all" />
+    <type fullname="UnityEngine.LightmapSettings" preserve="all" />
+    <type fullname="UnityEngine.LineRenderer" preserve="all" />
+    <type fullname="UnityEngine.Material" preserve="all" />
+    <type fullname="UnityEngine.Mesh" preserve="all" />
+    <type fullname="UnityEngine.MeshFilter" preserve="all" />
+    <type fullname="UnityEngine.MeshRenderer" preserve="all" />
+    <type fullname="UnityEngine.Object" preserve="all" />
+    <type fullname="UnityEngine.RectTransform" preserve="all" />
+    <type fullname="UnityEngine.Rendering.SortingGroup" preserve="all" />
+    <type fullname="UnityEngine.RenderSettings" preserve="all" />
+    <type fullname="UnityEngine.Shader" preserve="all" />
+    <type fullname="UnityEngine.Sprite" preserve="all" />
+    <type fullname="UnityEngine.SpriteRenderer" preserve="all" />
+    <type fullname="UnityEngine.Texture2D" preserve="all" />
+    <type fullname="UnityEngine.Transform" preserve="all" />
+    <type fullname="UnityEngine.Events.PersistentCallGroup" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.RectOffset" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.ArgumentCache" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.PersistentListenerMode" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="UnityEngine.ParticleSystemModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.ParticleSystem" preserve="all" />
+    <type fullname="UnityEngine.ParticleSystemRenderer" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.PhysicsModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.BoxCollider" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.SpriteMaskModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.SpriteMask" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.TextRenderingModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Font" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.UI.AspectRatioFitter" preserve="all" />
+    <type fullname="UnityEngine.UI.Button" preserve="all" />
+    <type fullname="UnityEngine.UI.CanvasScaler" preserve="all" />
+    <type fullname="UnityEngine.UI.ContentSizeFitter" preserve="all" />
+    <type fullname="UnityEngine.UI.GraphicRaycaster" preserve="all" />
+    <type fullname="UnityEngine.UI.GridLayoutGroup" preserve="all" />
+    <type fullname="UnityEngine.UI.HorizontalLayoutGroup" preserve="all" />
+    <type fullname="UnityEngine.UI.Image" preserve="all" />
+    <type fullname="UnityEngine.UI.LayoutElement" preserve="all" />
+    <type fullname="UnityEngine.UI.Mask" preserve="all" />
+    <type fullname="UnityEngine.UI.Scrollbar" preserve="all" />
+    <type fullname="UnityEngine.UI.ScrollRect" preserve="all" />
+    <type fullname="UnityEngine.UI.Slider" preserve="all" />
+    <type fullname="UnityEngine.UI.Toggle" preserve="all" />
+    <type fullname="UnityEngine.UI.ToggleGroup" preserve="all" />
+    <type fullname="UnityEngine.UI.VerticalLayoutGroup" preserve="all" />
+    <type fullname="UnityEngine.UI.MaskableGraphic/CullStateChangedEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.AnimationTriggers" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Button/ButtonClickedEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.ColorBlock" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Navigation" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Slider/SliderEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.SpriteState" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.ScrollRect/ScrollRectEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Scrollbar/ScrollEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Toggle/ToggleEvent" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="UnityEngine.UIModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Canvas" preserve="all" />
+    <type fullname="UnityEngine.CanvasGroup" preserve="all" />
+    <type fullname="UnityEngine.CanvasRenderer" preserve="all" />
+  </assembly>
+  <assembly fullname="Unity.RenderPipelines.Core.Runtime">
+    <type fullname="UnityEngine.Rendering.SerializedDictionary`2" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="UnityEngine.TextCoreFontEngineModule">
+    <type fullname="UnityEngine.TextCore.FaceInfo" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.TextCore.Glyph" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.TextCore.GlyphMetrics" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.TextCore.GlyphRect" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.TextCore.LowLevel.GlyphAdjustmentRecord" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.TextCore.LowLevel.GlyphPairAdjustmentRecord" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.TextCore.LowLevel.GlyphValueRecord" preserve="nothing" serialized="true" />
+  </assembly>
+</linker>
